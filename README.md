@@ -1,3 +1,3 @@
 # wolfys_newfolder
-My first time using Github and my initial codes
+My first time using Github and my initial codes.
 Author - Devarpit wolf
