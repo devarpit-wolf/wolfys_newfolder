@@ -42,7 +42,7 @@
 
             <label for="pay">method for payment:</label>
             <select>
-                <option value="visa">visa</option>
+                <option value="UPI">UPI</option>
                 <option value="master card">master card</option>
                 <option value="credit card">credit card</option>
                 
